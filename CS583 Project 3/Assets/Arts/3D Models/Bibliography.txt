@@ -1,0 +1,47 @@
+SELF-MADE:
+
+MAIN PLAYER:
+Animation1 Block
+Animation2 Duck
+Animation3 Dying
+Animation4 Grab
+Animation5 Idle Breathing
+Animation6 Jump
+Animation7 Kick
+Animation8 Punch
+Animation9 Throwing
+Animation10 Taking Damage
+Animation11 Walk-Jump
+Animation12 Walking
+=============================
+COINS:
+Animation1: Coin Spinning
+
+=============================
+GEMS:
+Diamond - Diamond Spinning
+Emerald - Emerald Spinning
+Ruby - Ruby Spinning
+
+=============================
+NPC:
+Monkey
+Animation1 - Dying
+Animation2 - Throwing
+Animation3 - Walking
+
+SMALL MUSHROOM
+Animation1 - Side to side
+Animation2 - Walking
+Animation3 - Dying
+
+=============================
+FIREBALL
+Animation1 - Aura spinning clockwise
+Animation2 - Aura spinning counter clockwise
+
+
+FREE SOURCE:
+Gorilla - https://www.cgtrader.com/free-3d-print-models/games-toys/other/angry-gorilla
+Animation - (Self-made)
+

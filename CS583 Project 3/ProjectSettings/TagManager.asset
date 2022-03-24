@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Button_Play_Game
+  - Button_Settings
+  - Button_About
+  - Button_Quit
+  - Button_Back
+  - NPC
+  - Enemy
+  - Coin
+  - Fireball
+  - Level A1 Exit
+  - Level A2 Exit
+  - Fireball Image
+  - Immunity Image
+  - Emerald Image
+  - Diamond Image
+  - Ruby Image
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Enemies
+  - NPC
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
